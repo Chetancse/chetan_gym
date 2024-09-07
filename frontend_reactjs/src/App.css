@@ -1,0 +1,10 @@
+@media screen and (max-width: 1200px) {
+  .header-area ul.nav {
+    display: none; /* Hide the navigation menu */
+  }
+}
+/* Styles for the open navigation menu */
+.header-area ul.nav.open {
+  display: block;
+  /* Add styling for the open menu here */
+}
